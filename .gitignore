@@ -27,3 +27,10 @@ data/processed/*
 app/frontend/node_modules/
 app/frontend/.next/
 app/frontend/tsconfig.tsbuildinfo
+
+# Production Aerohealth FD001 runtime data
+!data/raw/
+data/raw/*
+!data/raw/train_FD001.txt
+!data/raw/test_FD001.txt
+!data/raw/RUL_FD001.txt
