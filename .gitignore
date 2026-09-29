@@ -22,3 +22,8 @@ data/processed/*
 
 # Windows download metadata
 *:Zone.Identifier
+
+# Frontend generated files
+app/frontend/node_modules/
+app/frontend/.next/
+app/frontend/tsconfig.tsbuildinfo
